@@ -1,0 +1,40 @@
+{
+  "name": "n8x-currency-convertor",
+  "version": "1.0.3",
+  "description": "A cli currency convertor using typescript nodejs and currencyapi",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "node main.js"
+  },
+  "bin": {
+    "n8x-currency-convertor": "main.js"
+  },
+  "keywords": [
+    "npx",
+    "currency convertor",
+    "currency",
+    "typescript",
+    "node.js",
+    "cli",
+    "cli-currecny-convertor"
+  ],
+  "author": "Syed Shayan",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n8x-editz/currencyConvertor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n8x-editz/currencyConvertor/issues"
+  },
+  "homepage": "https://github.com/n8x-editz/currencyConvertor#readme"
+}

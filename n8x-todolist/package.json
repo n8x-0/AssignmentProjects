@@ -1,0 +1,31 @@
+{
+  "name": "n8x-todolist",
+  "version": "1.0.0",
+  "description": "typescript / node todo app for assignment purpose",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "main.js",
+  "keywords": [],
+  "author": "Syed Shayan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "@types/gradient-string": "^1.1.5",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n8x-editz/n8x-todo-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n8x-editz/n8x-todo-ts/issues"
+  },
+  "homepage": "https://github.com/n8x-editz/n8x-todo-ts#readme"
+}
