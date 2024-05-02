@@ -1,14 +1,14 @@
 {
   "name": "n8x-wordcounter",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.1.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "main.js",
   "keywords": [],
-  "author": "",
+  "author": "Syed Shayan",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^20.12.4",
@@ -16,5 +16,14 @@
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n8x-0/AssignmentProjects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n8x-0/AssignmentProjects/issues"
+  },
+  "homepage": "https://github.com/n8x-0/AssignmentProjects#readme",
+  "description": ""
 }

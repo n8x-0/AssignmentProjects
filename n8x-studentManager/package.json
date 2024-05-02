@@ -1,0 +1,20 @@
+{
+  "name": "n8x-studentmanager",
+  "version": "1.0.1",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["typescript", "studentmanager", "n8x"],
+  "author": "Syed Shayan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {},
+  "description": ""
+}
